@@ -1,0 +1,167 @@
+*{
+  padding: 0px;
+  margin: 0px;
+
+}
+/*CABECALHO*/
+.cabecalho{
+  width: 100%;
+  height: 80px;
+  background-color: #FF8C00;
+
+}
+.isolamentoCabecalho{
+  width: 1349px;
+  height: 100%;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../Imagens/icone2.png);
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+
+}
+.menu{
+  width: 600px;
+  margin-left: 300px;
+  height: 100%;
+
+
+}
+.item{
+  width: 150px;
+  height: 50%;
+  background-color: ;
+  float: left;
+  margin-left: 30px;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 50px;
+  color: #fff;
+  font-family: Batang;
+  text-transform: uppercase;
+  text-align: center;
+  font-style: bold;
+
+
+
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+.item:hover{
+  width: 150px;
+  height: 50%;
+  background-color: ;
+  float: left;
+  margin-left: 30px;
+  margin-top: 20;
+  font-size: 18px;
+  line-height: 50px;
+  border-bottom: solid 0px #FFF;
+  text-align: center;
+  cursor: pointer;
+
+
+}
+/*BANNER*/
+.banner{
+  width: 100%;
+  height: 580px;
+  background-color: ;
+}
+.isolamentoBanner{
+  width: 1349px;
+  height: 100%;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../Imagens/cons.jpg);
+  background-repeat: no-repeat;
+  background-position: -200px;
+    display: flex;
+}
+.bannerInformacoes{
+  width: 400px;
+  height: 400px;
+/*  background-color: rgba(0,0,0,0.5);*/
+  margin-left: 150px;
+  margin-top: 130px;
+  border-radius: 10px;
+
+}
+.bannerInformacoes .td{
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #4682B4;
+  font-weight: bold;
+  font-family: DFKai-SB;
+
+  width: 100%;
+
+}
+.comentarioAbaixo{
+  font-size: 20px;
+  color: #4682B4;
+  font-family: batang;
+}
+.telefoneBanner{
+  font-size: 50px;
+  color: #4682B4;
+  font-family: DFKai-SB;
+  font-weight: bold;
+}
+
+/*QUEM somos*/
+.quemsomos{
+  width: 100%;
+  height: 400px;
+  background-color: ;
+}
+.isolamentoQuemsomos{
+  width: 1349px;
+  height: 100%;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../Imagens/planta.png);
+  background-position: -250px;
+  background-size: 1200px 400px;
+}
+.servicos{
+  width: 100%;
+  height: 500px;
+  background-color: #fff;
+}
+.isolamentoServicos{
+  width: 1349px;
+  height: 100%;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+}
+.faleconosco{
+  width: 100%;
+  height: 600px;
+  background-color: #4682B4;
+}
+.isolamentoFaleConosco{
+  width: 1349px;
+  height: 100%;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rodape{
+  width: 100%;
+  height: 50px;
+  background-color: black;
+}
+.isolamentoRodape{
+  width: 1349px;
+  height: 100%;
+  background-color: #000;
+  margin-left: auto;
+  margin-right: auto;
+}
